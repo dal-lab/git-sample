@@ -15,7 +15,7 @@ def string_maker(length=0, align='LEFT', padding=''):
 
     def wrapper(data):
         return "{:{padding}{align}{len}}".format(
-            data,
+            data[:length],
             padding=padding,
             align=ALIGN_SIGN.get(align),
             len=length)
