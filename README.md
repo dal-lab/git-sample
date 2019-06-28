@@ -1,3 +1,3 @@
 # Git Sample
 
-This is a sample project for Git training.
+파.괴.한.다.
