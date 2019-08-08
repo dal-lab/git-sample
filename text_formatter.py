@@ -3,7 +3,7 @@
 """
 
 
-def xstring_maker(length=0, align='LEFT', padding=''):
+def string_maker(length=0, align='LEFT', padding=''):
     """
     param으로 받은 length, align, padding으로 문자열 format을 설정
     """
