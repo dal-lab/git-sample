@@ -1,6 +1,7 @@
-# Git Sample
+# CashCow
 
-[![Build Status](https://travis-ci.org/dal-lab/git-sample.svg?branch=master)](https://travis-ci.org/dal-lab/git-sample)
-[![works badge](https://cdn.jsdelivr.net/gh/nikku/works-on-my-machine@v0.2.0/badge.svg)](https://github.com/nikku/works-on-my-machine)
+## 실행하기
 
-This repository is a playground to learn Git.
+```
+python parser.py
+```
