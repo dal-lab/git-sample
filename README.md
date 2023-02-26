@@ -5,4 +5,4 @@
 
 This repository is a playground to learn Git.
 
-나는 테스트다.
+이 텍스트는 테스트다.
